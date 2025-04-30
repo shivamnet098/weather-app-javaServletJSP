@@ -67,8 +67,7 @@
 
 <footer>
 	<div class="footer-container">
-		<p>Developed by Darshan Bajgain @ 2024 | JAVA Servlet JSP Dynamic
-			Web Project</p>
+		<p>Made By Shivam Kumar</p>
 	</div>
 </footer>
 </html>
